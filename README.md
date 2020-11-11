@@ -16,16 +16,16 @@ A lot of the apps that I have found overlay their map way too heavily with graph
 not too dominant circles does the job fine. A Covid map that can't be seen through visuals isn't much use to
 anyone. 
 
-### 3. Regional News
+#### 3. Regional News
 Most applications only offer news for countries or the world as a whole. It would be of great use to have local
 news at your finger tips. For example if a neighborhood near you had an outbreak it would be the easiest way
 to find out. 
 
-### 4. Key Features on Main Page
+#### 4. Key Features on Main Page
 Everything is front and centre the moment you get past the login screen. The key features are displayed front and
 center allowing the user to go straight to what they want to do.
 
-### 5. Updating Data
+#### 5. Updating Data
 Alot of applications don't update their data very often, since the regional news is being recorded already it would
 be easy to update the data as it comes in. If you have a map it shouldn't be that hard to update and generate tables
 with that data.
