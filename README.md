@@ -3,7 +3,7 @@
 
 I worked off of my base application that I created for my assignment 1 with tweaks that made it more user friendly.
 
-Some of these changes were:
+Some of my key changes were:
 
 #### 1. Ability to See Region Rules
 No other application that I have found has the abilities to show what regulations are put in a certian
@@ -31,5 +31,6 @@ be easy to update the data as it comes in. If you have a map it shouldn't be tha
 with that data.
 
 Youtube Link:
+Figma Link: https://www.figma.com/file/G6znnAsQwWD9fiDkI0bqbq/Untitled?node-id=0%3A1
 
 ![Prototype](https://user-images.githubusercontent.com/35903888/98764414-bcdd5880-23a9-11eb-8d63-af02cf57514f.png)
